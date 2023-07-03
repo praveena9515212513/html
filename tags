@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Practice
+        </title>
+    </head>
+    <body>
+        <div>
+            <h3>HTML Tags Practice</h3>
+            <p align="center">Center alignment for paragraph tag</p>
+            <p align="left">Left alignment for paragraph tag</p>
+            <p align="right">Right alignment for paragraph tag</p>
+            <p>
+                writing a paragraph for 
+                <br>break Tag
+            </p>
+            <pre>Hai this is pre Tag
+                would you like to see my power
+                i can print extra                  spaces
+                extra line spaces
+            </pre>
+        </div>
+
+        <div>
+            <h3>HTML text formatting</h3>
+            <strong>strong text</strong>
+            <br>
+            <b>b tag</b>
+            <br>
+            <small>small</small> text
+            <br>
+            <mark>mark text</mark>
+            <br>
+            <i>itallic tag</i>
+            <br>
+            <em>emphasize tag</em>
+            <br>
+            hai I am <sup>super script</sup>
+            <br>
+            hello i am <sub>sub script</sub>
+            <br>
+            <del>delete tag</del>
+            <br>
+            <ins>I am ins tag</ins>
+            <br>
+
+        </div>
+        
+        <q>Do you know which tag is used for placing quotes it is q tag</q>
+        <br>
+        abbrevation tag <abbr title="world wide wev=b">www</abbr>
+
+        <h4>bdo tag bidirectional override</h4>
+        <p>
+            <bdo dir="rtl">The quick brown fox jumps over the lazy dog</bdo>
+        </p>
+        <p>
+            cite tag is used to define a title of a work and emphasizes a text
+            <br><cite>Disipline </cite>is the key to success
+        </p>
+    </body>
+</html>
